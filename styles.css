@@ -12,6 +12,10 @@ nav {
     background-color: #90C7E3;
 }
 
+main {
+    color: grey;
+}
+
 h2 {
     color: #3599cc;
 }
@@ -22,10 +26,19 @@ strong {
 
 footer {
     text-align: center;
+    color: gray;
 }
 
 
 .small-bolder {
     font-size: 18px;
     font-weight: bolder;
+}
+
+.font-weight-medium {
+    font-weight: 500;
+}
+
+.color-black {
+    color: black;
 }
